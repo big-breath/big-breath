@@ -8,7 +8,7 @@ Full Stack Developer
 I have been learning to code for 2 years and it has been an amazing experience. I am passionate about solving real life problems using logic and code and I am always ready to learn!
 
 * :earth_americas:  I'm based in MG, Brazil.
-* :scroll: See my portfolio at [MyPortfolio](https://big-breath.github.io/one-page-portifolio/)
+* :scroll: See my AboutMe at [One Page Portifolio](https://big-breath.github.io/one-page-portifolio/)(soon to be my portifolio)
 * :envelope:  You can contact me at [LinkedIn](https://www.linkedin.com/in/rafael-pereira-dev/)
 * :brain:  I'm a master of many languages.
 * :handshake:  I'm open to collaborate on interesting and creative projects!
